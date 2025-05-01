@@ -1,0 +1,7 @@
+# Arquivos e pastas comuns a todo o projeto
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+.env
